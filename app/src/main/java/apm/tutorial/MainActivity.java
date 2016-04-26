@@ -70,7 +70,7 @@ public class MainActivity extends ActionBarActivity {
         dir.mkdirs();}
 
         cropImageView.setImageBitmap(BitmapFactory.decodeResource(getResources(), R.drawable.mala));
-        //cropImageView.getCroppedImage();
+
 
 
 
@@ -90,6 +90,7 @@ public class MainActivity extends ActionBarActivity {
         File woteArff = new File(path + "/soybean.arff");
         voteArff(woteArff,mainActivity,path+"/vote.arff");
         //Load(file,wekaFile,mainActivity,path);
+        //deneme
     }
 
 
