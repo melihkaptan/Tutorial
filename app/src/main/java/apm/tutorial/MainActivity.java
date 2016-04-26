@@ -90,7 +90,7 @@ public class MainActivity extends ActionBarActivity {
         File woteArff = new File(path + "/soybean.arff");
         voteArff(woteArff,mainActivity,path+"/vote.arff");
         //Load(file,wekaFile,mainActivity,path);
-        //deneme
+        //deneme1
     }
 
 
